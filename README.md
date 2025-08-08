@@ -8,7 +8,16 @@ Incluye:
 - Finales comentados
 - Recursos complementarios como apuntes, videos y enlaces útiles
 
-En este link podes encontrar los talleres y TPs resueltos por mi grupo.
+---
+
+## Estructura del repositorio
+
+Cada carpeta contiene Las clases prácticas del tema, las teóricas relacionadas, la guía y los resueltos.
+
+---
+
+En este [repositorio de talleres y TPs](https://github.com/a-Bouchez/UBA-ALC-TPs) podés encontrar el material resuelto por mi grupo.
+
 ---
 
 ## Aclaraciones importantes
